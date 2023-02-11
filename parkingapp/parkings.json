@@ -1,0 +1,60 @@
+{
+	"parkings": [
+		{
+			"id": 1,
+			"name": "DSK Parking",
+			"address": "KAFD, Riyadh",
+			"rating": 4,
+			"slots": 29,
+			"fee": 50
+		},
+		{
+			"id": 2,
+			"name": "Ather Parking",
+			"address": "Al-Munsiyah, Riyadh",
+			"rating": 3,
+			"slots": 100,
+			"fee": 100
+		},
+		{
+			"id": 3,
+			"name": "ABV Parking",
+			"address": "Al-Yasmin, Riyadh",
+			"rating": 2,
+			"slots": 50,
+			"fee": 150
+		},
+		{
+			"id": 4,
+			"name": "Market Parking",
+			"address": "Al-Olaya, Riyadh",
+			"rating": 1,
+			"slots": 70,
+			"fee": 50
+		},
+		{
+			"id": 5,
+			"name": "King Saud University Parking",
+			"address": "King Saud University, Riyadh",
+			"rating": 4,
+			"slots": 90,
+			"fee": 30
+		},
+		{
+			"id": 6,
+			"name": "KM Parking",
+			"address": "Al-Narjis, Riyadh",
+			"rating": 5,
+			"slots": 120,
+			"fee": 20
+		},
+		{
+			"id": 7,
+			"name": "Riyadh Boulevard Parking",
+			"address": "Hittin, Riyadh",
+			"rating": 3,
+			"slots": 150,
+			"fee": 50
+		}
+	]
+}
